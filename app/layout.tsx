@@ -43,6 +43,10 @@ export const metadata: Metadata = {
     description:
       "Automate appointment booking, customer queries & follow-ups on WhatsApp. 24/7, in 50+ languages.",
   },
+  icons: {
+    icon: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
   robots: { index: true, follow: true },
 };
 
